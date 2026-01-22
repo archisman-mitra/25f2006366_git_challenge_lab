@@ -1,1 +1,1 @@
-# my-python-app
+# Git challenge lab — Python arithmetic example
